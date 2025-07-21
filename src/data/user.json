@@ -1,0 +1,91 @@
+{
+	"user": [
+		{
+			"_id": "680f50aaf10f3cd28382ecf2",
+			"email": "ahmed.hassan1992@gmail.com",
+			"fullName": "Ahmed Hassan",
+			"profilePic": "https://i.postimg.cc/Mpz77prD/ahmed-hassan.jpg",
+			"bio": "Hi Everyone, I am Using QuickChat",
+			"role": "Project Manager",
+			"review": "TaskFlow has transformed how I manage project timelines. The interface is clean and the task assignments are seamless."
+		},
+		{
+			"_id": "680f50e4f10f3cd28382ecf9",
+			"email": "sara.ibrahim1994@outlook.com",
+			"fullName": "Sara Ibrahim",
+			"profilePic": "https://i.postimg.cc/prY9rDxt/sara-ibrahim.jpg",
+			"bio": "Hi Everyone, I am Using QuickChat",
+			"role": "Software Engineer",
+			"review": "I love how TaskFlow keeps my sprint tasks organized. The reminders and subtasks help me stay on track effortlessly."
+		},
+		{
+			"_id": "680f510af10f3cd28382ed01",
+			"email": "mahmoud.elsayed1984@icloud.com",
+			"fullName": "Mahmoud ElSayed",
+			"profilePic": "https://i.postimg.cc/8PNJ3nBk/mahmoud-elsayed.jpg",
+			"bio": "Hi Everyone, I am Using QuickChat",
+			"role": "Team Lead",
+			"review": "The team collaboration features in TaskFlow are top-notch. I can track everyone's progress without micro-managing."
+		},
+		{
+			"_id": "680f5137f10f3cd28382ed10",
+			"email": "khaled.mostafa1989@yahoo.com",
+			"fullName": "Khaled Mostafa",
+			"profilePic": "https://i.postimg.cc/FKjT9BqW/khaled-mostafa.jpg",
+			"bio": "Hi Everyone, I am Using QuickChat",
+			"role": "UI/UX Designer",
+			"review": "TaskFlow's user interface is intuitive and minimal. It feels like the app was designed by someone who understands designers!"
+		},
+		{
+			"_id": "680f516cf10f3cd28382ed11",
+			"email": "yasmine.adel2002@icloud.com",
+			"fullName": "Yasmine Adel",
+			"profilePic": "https://i.postimg.cc/CxKZMBQW/yasmine-adel.jpg",
+			"bio": "Hi Everyone, I am Using QuickChat",
+			"role": "Marketing Specialist",
+			"review": "Using TaskFlow helped me coordinate with content creators and launch campaigns on time. I highly recommend it!"
+		}
+	],
+
+	"plans": [
+		{
+			"title": "Free",
+			"price": "$0/month",
+			"description": "Perfect for personal use. Stay organized with the essentials.",
+			"icon": "person",
+			"features": [
+				{ "description": "Basic task management", "isObtained": true },
+				{ "description": "Up to 2 projects", "isObtained": true },
+				{ "description": "Daily reminders", "isObtained": true },
+				{ "description": "Calendar integration", "isObtained": false },
+				{ "description": "Team collaboration tools", "isObtained": false }
+			]
+		},
+		{
+			"title": "Pro",
+			"price": "$6/month",
+			"description": "Power up your productivity. Ideal for freelancers and power users.",
+			"icon": "contacts_product",
+			"features": [
+				{ "description": "Unlimited tasks & projects", "isObtained": true },
+				{ "description": "Smart tags & filters", "isObtained": true },
+				{ "description": "Custom reminders & themes", "isObtained": true },
+				{ "description": "Team collaboration tools", "isObtained": false },
+				{ "description": "Advanced analytics", "isObtained": false }
+			]
+		},
+		{
+			"title": "Team",
+			"price": "$12/user/month",
+			"description": "Collaboration made simple. Built for teams who want to move fast.",
+			"icon": "groups",
+			"features": [
+				{ "description": "Everything in Pro", "isObtained": true },
+				{ "description": "Team workspaces", "isObtained": true },
+				{ "description": "Task assignment & roles", "isObtained": true },
+				{ "description": "Shared calendars", "isObtained": true },
+				{ "description": "Activity tracking & insights", "isObtained": true }
+			]
+		}
+	]
+}
