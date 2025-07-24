@@ -163,7 +163,9 @@ export default function Footer(): ReactNode {
 					</div>
 				</div>
 			</div>
-			<p className={styles["copy"]}>Copyright &copy; Mahmoud Zakaria</p>
+			<p className={styles["copy"]}>
+				&copy; 2025 Mahmoud Zakaria. All rights reserved.
+			</p>
 		</footer>
 	);
 }
