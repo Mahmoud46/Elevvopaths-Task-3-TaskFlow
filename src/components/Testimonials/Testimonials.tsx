@@ -75,9 +75,8 @@ export default function Testimonials(): ReactNode {
 				className={styles.description}
 			>
 				Discover how TaskFlow is transforming the way people organize their
-				lives. <br />
-				Real stories from real users who boosted their productivity, reduced
-				stress, and finally took control of their tasks.
+				lives. Real stories from real users who boosted their productivity,
+				reduced stress, and finally took control of their tasks.
 			</motion.p>
 			<div className={styles.container}>
 				<div className={styles["cards-container"]} ref={cardsContainer}>

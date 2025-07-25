@@ -44,7 +44,7 @@ export default function Home(): ReactNode {
 						}}
 						viewport={{ once: false, amount: 0.2 }}
 					>
-						Organize Your Day <br /> with{" "}
+						Organize Your Day With{" "}
 						<span className={styles["brand-name"]}>TaskFlow</span>
 						<motion.a
 							initial={{ scale: 0.8, opacity: 0 }}

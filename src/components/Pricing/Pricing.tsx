@@ -21,7 +21,6 @@ export default function Pricing(): ReactNode {
 			<h2 className={styles.title}>Simple Plans for Every Workflow</h2>
 			<p className={styles.description}>
 				Whether you're just getting started or managing a full team, TaskFlow
-				<br />
 				has a plan that fits your needs — and your budget. No hidden fees, just
 				clean productivity.
 			</p>
