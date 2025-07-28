@@ -11,12 +11,16 @@ A full web page for a fictional app called TaskFlow – a tool that helps people
 - Pricing section for three plans (Free, Pro, Team)
 - Footer
 
-# Features
+## Features
 
 - The page is fully responsive for both mobiles and disktops
 - Light and dark themes are provided
 - Animation when each section appears while scrolling down the page.
 
-# Tools
+## Tools
 
 - React.js | TypeScript (TS) | CSS/SCSS | Framer Motion | Google Icons | Google Fonts (Poppins)
+
+## Demo
+
+[TaskFlow landing page](https://elevvopaths-task-3-task-flow.vercel.app/)
